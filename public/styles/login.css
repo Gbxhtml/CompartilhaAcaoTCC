@@ -1,0 +1,71 @@
+body {
+    overflow: auto; /* Permitir rolagem se necessário */
+}
+
+form {
+    width: 100%;
+    min-height: 100vh; /* Permitir que o formulário se expanda se necessário */
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+form .container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 35px;
+    font-size: medium;
+    width: 100%;
+    max-width: 850px; /* Limitar a largura máxima do container */
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px #ccc; /* Aumentar a sombra para dar mais destaque */
+    margin: 0 auto; /* Centralizar horizontalmente */
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    align-self: center;
+    user-select: none;
+    pointer-events: none;
+    margin-bottom: 20px; /* Adicionar espaço abaixo da logo */
+}
+
+form .container input,
+form .container select {
+    padding: 15px; /* Diminuir o padding para evitar que os campos fiquem muito grandes */
+    width: 100%;
+    margin: 2px 0 10px;
+    outline: none;
+    border-radius: 5px;
+    border: 2px var(--primary) solid;
+}
+
+form .container input[type=submit] {
+    background-color: var(--primary);
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 0;
+    cursor: pointer;
+    color: white;
+    font-size: large;
+}
+
+form a {
+    color: var(--primary);
+}
+
+.w-50 {
+    width: 50% !important;
+    padding: 0 5px;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between; /* Distribuir uniformemente os campos */
+}
