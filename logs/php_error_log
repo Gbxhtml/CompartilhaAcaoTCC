@@ -1,0 +1,300 @@
+[30-Sep-2024 21:11:33 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`compartilhaacao`.`tb_usuario`, CONSTRAINT `tb_usuario_ibfk_1` FOREIGN KEY (`endereco`) REFERENCES `tb_endereco` (`id`))
+[30-Sep-2024 21:26:03 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`compartilhaacao`.`tb_usuario`, CONSTRAINT `tb_usuario_ibfk_1` FOREIGN KEY (`endereco`) REFERENCES `tb_endereco` (`id`))
+[01-Oct-2024 20:07:49 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cpf' in 'field list'
+[01-Oct-2024 20:08:22 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+[01-Oct-2024 20:10:14 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cpf' in 'field list'
+[01-Oct-2024 20:12:47 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[01-Oct-2024 20:12:47 America/Sao_Paulo] PHP Warning:  include(components/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 13
+[01-Oct-2024 20:12:47 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'components/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 13
+[01-Oct-2024 20:12:47 America/Sao_Paulo] PHP Warning:  include(components/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 17
+[01-Oct-2024 20:12:47 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'components/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 17
+[01-Oct-2024 20:14:26 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4857' for key 'cpf'
+[01-Oct-2024 20:17:21 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '4857' for key 'cpf'
+[01-Oct-2024 20:20:41 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[01-Oct-2024 20:21:01 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[01-Oct-2024 20:21:15 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[01-Oct-2024 20:21:15 America/Sao_Paulo] PHP Warning:  include(components/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 13
+[01-Oct-2024 20:21:15 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'components/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 13
+[01-Oct-2024 20:21:15 America/Sao_Paulo] PHP Warning:  include(components/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 17
+[01-Oct-2024 20:21:15 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'components/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 17
+[01-Oct-2024 20:21:20 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[01-Oct-2024 20:26:18 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[01-Oct-2024 20:26:18 America/Sao_Paulo] PHP Warning:  include(components/sidebar.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 13
+[01-Oct-2024 20:26:18 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'components/sidebar.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 13
+[01-Oct-2024 20:26:18 America/Sao_Paulo] PHP Warning:  include(components/footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 17
+[01-Oct-2024 20:26:18 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'components/footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 17
+[01-Oct-2024 20:31:04 America/Sao_Paulo] PHP Warning:  include(pages/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 20
+[01-Oct-2024 20:31:04 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 20
+[01-Oct-2024 20:31:11 America/Sao_Paulo] PHP Warning:  include(pages/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 20
+[01-Oct-2024 20:31:11 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 20
+[01-Oct-2024 20:31:15 America/Sao_Paulo] PHP Warning:  include(pages/404.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\tcc\index.php on line 20
+[01-Oct-2024 20:31:15 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'pages/404.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tcc\index.php on line 20
+[01-Oct-2024 20:33:52 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[01-Oct-2024 20:33:52 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[01-Oct-2024 20:34:30 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[01-Oct-2024 20:34:30 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[01-Oct-2024 20:34:31 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[01-Oct-2024 20:34:31 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[01-Oct-2024 20:34:32 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[01-Oct-2024 20:34:32 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[07-Oct-2024 20:18:33 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[07-Oct-2024 20:18:33 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[07-Oct-2024 20:18:33 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[07-Oct-2024 20:19:04 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 22
+[07-Oct-2024 20:19:04 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 24
+[07-Oct-2024 20:20:06 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[07-Oct-2024 20:20:06 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[07-Oct-2024 20:20:13 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[07-Oct-2024 20:20:13 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[07-Oct-2024 20:20:22 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 23
+[07-Oct-2024 20:20:22 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 25
+[07-Oct-2024 20:21:01 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 26
+[07-Oct-2024 20:21:01 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 28
+[07-Oct-2024 20:21:59 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 26
+[07-Oct-2024 20:21:59 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 28
+[07-Oct-2024 20:26:47 America/Sao_Paulo] PHP Warning:  Undefined array key "cargo" in C:\xampp\htdocs\tcc\components\sidebar.php on line 27
+[07-Oct-2024 20:38:59 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[07-Oct-2024 20:46:26 America/Sao_Paulo] PHP Warning:  Undefined array key "cidade" in C:\xampp\htdocs\tcc\pages\cadastro.php on line 84
+[07-Oct-2024 20:46:33 America/Sao_Paulo] PHP Warning:  Undefined array key "cidade" in C:\xampp\htdocs\tcc\pages\cadastro.php on line 84
+[07-Oct-2024 20:49:54 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[07-Oct-2024 20:50:19 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[07-Oct-2024 20:53:41 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[12-Oct-2024 21:45:17 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[12-Oct-2024 21:54:46 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[16-Oct-2024 17:32:20 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[30-Oct-2024 15:08:03 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\classes\Usuario.php on line 49
+[30-Oct-2024 15:24:23 America/Sao_Paulo] Erro ao cadastrar instituição: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`compartilhaacao`.`tb_instituicao`, CONSTRAINT `endereco` FOREIGN KEY (`endereco`) REFERENCES `tb_endereco` (`id`))
+[30-Oct-2024 15:25:58 America/Sao_Paulo] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\tcc\pages\instituicao.php on line 94
+[30-Oct-2024 15:25:58 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in C:\xampp\htdocs\tcc\pages\instituicao.php:94
+Stack trace:
+#0 C:\xampp\htdocs\tcc\index.php(15): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\tcc\pages\instituicao.php on line 94
+[30-Oct-2024 15:27:42 America/Sao_Paulo] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Instituicao::cadastrarInstituicao(), 8 passed in C:\xampp\htdocs\tcc\pages\instituicao.php on line 90 and exactly 13 expected in C:\xampp\htdocs\tcc\classes\Instituicao.php:76
+Stack trace:
+#0 C:\xampp\htdocs\tcc\pages\instituicao.php(90): Instituicao::cadastrarInstituicao('26', 'sadas@ifc.edu.b...', '1234567', 'Ong sla oq', '', '79.750.298/0001...', '48999270576', '')
+#1 C:\xampp\htdocs\tcc\index.php(15): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\tcc\classes\Instituicao.php on line 76
+[30-Oct-2024 16:00:50 America/Sao_Paulo] Senha incorreta para o email: sadas@ifc.edu.br
+[30-Oct-2024 16:01:48 America/Sao_Paulo] Senha incorreta para o email: ifc@gmail.com
+[30-Oct-2024 16:07:41 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\components\sidebar.php on line 3
+[30-Oct-2024 16:07:41 America/Sao_Paulo] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\tcc\components\sidebar.php on line 27
+[30-Oct-2024 16:08:27 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\components\sidebar.php on line 3
+[30-Oct-2024 16:08:55 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[30-Oct-2024 16:09:22 America/Sao_Paulo] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\tcc\components\sidebar.php on line 27
+[30-Oct-2024 19:19:01 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[30-Oct-2024 19:20:28 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[30-Oct-2024 19:24:50 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[30-Oct-2024 19:28:50 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[30-Oct-2024 20:40:24 America/Sao_Paulo] Erro ao excluir usuário: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`compartilhaacao`.`tb_usuario`, CONSTRAINT `tb_usuario_ibfk_1` FOREIGN KEY (`endereco`) REFERENCES `tb_endereco` (`id`))
+[30-Oct-2024 20:42:54 America/Sao_Paulo] Erro ao excluir usuário: SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`compartilhaacao`.`tb_usuario`, CONSTRAINT `tb_usuario_ibfk_1` FOREIGN KEY (`endereco`) REFERENCES `tb_endereco` (`id`))
+[30-Oct-2024 20:43:57 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\tcc\classes\Usuario.php on line 73
+[30-Oct-2024 20:44:12 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\tcc\classes\Usuario.php on line 73
+[30-Oct-2024 20:44:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\tcc\classes\Usuario.php on line 73
+[30-Oct-2024 20:46:29 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\tcc\classes\Usuario.php on line 73
+[30-Oct-2024 20:51:17 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') VALUES ('Samuel Conradt', 'conradtsamuel@gmail.com', '1234567', '004.857.84...' at line 1
+[30-Oct-2024 20:52:10 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ') VALUES ('Samuel Conradt', 'conradtsamuel@gmail.com', '1234567', '004.857.84...' at line 1
+[30-Oct-2024 20:55:17 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[30-Oct-2024 20:55:29 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[30-Oct-2024 20:56:16 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+[30-Oct-2024 21:01:23 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[11-Nov-2024 15:53:17 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\tcc\classes\Usuario.php:69
+Stack trace:
+#0 C:\xampp\htdocs\tcc\pages\login.php(34): Usuario::login('conradtsamuel@g...', '1234567')
+#1 C:\xampp\htdocs\tcc\index.php(23): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\tcc\classes\Usuario.php on line 69
+[11-Nov-2024 15:53:32 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\tcc\classes\Usuario.php:69
+Stack trace:
+#0 C:\xampp\htdocs\tcc\pages\login.php(34): Usuario::login('conradtsamuel@g...', '1234567')
+#1 C:\xampp\htdocs\tcc\index.php(23): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\tcc\classes\Usuario.php on line 69
+[11-Nov-2024 15:53:39 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\tcc\classes\Instituicao.php:93
+Stack trace:
+#0 C:\xampp\htdocs\tcc\pages\login-instituicao.php(34): Instituicao::login('conradtsamuel@g...', '1234567')
+#1 C:\xampp\htdocs\tcc\index.php(15): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\tcc\classes\Instituicao.php on line 93
+[11-Nov-2024 15:53:52 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[11-Nov-2024 15:53:53 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[11-Nov-2024 16:06:29 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in C:\xampp\htdocs\tcc\pages\perfil.php on line 18
+[11-Nov-2024 16:06:50 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in C:\xampp\htdocs\tcc\pages\perfil.php on line 18
+[11-Nov-2024 16:07:40 America/Sao_Paulo] PHP Warning:  Undefined array key "senha" in C:\xampp\htdocs\tcc\pages\perfil.php on line 18
+[11-Nov-2024 16:11:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\tcc\pages\perfil.php on line 4
+[12-Nov-2024 14:45:00 America/Sao_Paulo] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\tcc\pages\perfil.php on line 36
+[12-Nov-2024 14:45:00 America/Sao_Paulo] PHP Warning:  Undefined array key "estado" in C:\xampp\htdocs\tcc\pages\perfil.php on line 36
+[12-Nov-2024 14:45:00 America/Sao_Paulo] PHP Warning:  Undefined array key "cidade" in C:\xampp\htdocs\tcc\pages\perfil.php on line 40
+[12-Nov-2024 14:45:00 America/Sao_Paulo] PHP Warning:  Undefined array key "cidade" in C:\xampp\htdocs\tcc\pages\perfil.php on line 40
+[12-Nov-2024 14:45:00 America/Sao_Paulo] PHP Warning:  Undefined array key "bairro" in C:\xampp\htdocs\tcc\pages\perfil.php on line 43
+[12-Nov-2024 14:45:00 America/Sao_Paulo] PHP Warning:  Undefined array key "rua" in C:\xampp\htdocs\tcc\pages\perfil.php on line 45
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in C:\xampp\htdocs\tcc\pages\perfil.php on line 5
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Undefined array key "usuario" in C:\xampp\htdocs\tcc\pages\perfil.php on line 6
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 18
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 27
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 30
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 40
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 40
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 44
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 44
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 47
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 49
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 55
+[12-Nov-2024 15:06:59 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 58
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in C:\xampp\htdocs\tcc\pages\perfil.php on line 5
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Undefined array key "usuario" in C:\xampp\htdocs\tcc\pages\perfil.php on line 6
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 18
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 27
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 30
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 40
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 40
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 44
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 44
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 47
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 49
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 55
+[12-Nov-2024 15:07:01 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 58
+[12-Nov-2024 15:09:42 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Raizera' in 'field list'
+[13-Nov-2024 17:05:37 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\tcc\excluir.php on line 13
+[13-Nov-2024 17:05:48 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\tcc\excluir.php on line 13
+[13-Nov-2024 17:07:17 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\tcc\excluir.php on line 14
+[13-Nov-2024 17:08:01 America/Sao_Paulo] PHP Warning:  Undefined variable $tipo in C:\xampp\htdocs\tcc\pages\perfil.php on line 2
+[13-Nov-2024 17:09:12 America/Sao_Paulo] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\tcc\excluir.php on line 14
+[13-Nov-2024 17:10:01 America/Sao_Paulo] PHP Warning:  Undefined array key "ID" in C:\xampp\htdocs\tcc\excluir.php on line 14
+[13-Nov-2024 17:18:13 America/Sao_Paulo] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\tcc\pages\perfil.php on line 19
+[13-Nov-2024 17:18:13 America/Sao_Paulo] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\tcc\pages\perfil.php on line 28
+[13-Nov-2024 17:19:11 America/Sao_Paulo] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\tcc\pages\perfil.php on line 19
+[13-Nov-2024 17:19:11 America/Sao_Paulo] PHP Warning:  Undefined array key "nome-fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 35
+[13-Nov-2024 17:19:11 America/Sao_Paulo] PHP Warning:  Undefined array key "nome" in C:\xampp\htdocs\tcc\pages\perfil.php on line 39
+[13-Nov-2024 17:19:57 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\tcc\pages\perfil.php on line 22
+[13-Nov-2024 17:19:59 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\xampp\htdocs\tcc\pages\perfil.php on line 22
+[13-Nov-2024 17:20:10 America/Sao_Paulo] PHP Warning:  Undefined array key "nome-fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 23
+[13-Nov-2024 17:20:10 America/Sao_Paulo] PHP Warning:  Undefined array key "nome-fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 41
+[13-Nov-2024 17:23:15 America/Sao_Paulo] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string / PDO in C:\xampp\htdocs\tcc\classes\Instituicao.php:70
+Stack trace:
+#0 C:\xampp\htdocs\tcc\pages\cadastro-instituicao.php(34): Instituicao::cadastrarInstituicao('42', 'Sombrio', 'Raizera', 'Rua M\xC3\xA1rio Sant...', '211', '88960000', 'conradtsamuel@g...', '1234567', 'Samuel Conradt', '', '79.750.298/0001...', '48999270576', '')
+#1 C:\xampp\htdocs\tcc\index.php(15): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\tcc\classes\Instituicao.php on line 70
+[13-Nov-2024 17:34:44 America/Sao_Paulo] Email não encontrado: conradtsamuel@gmail.com
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 23
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined variable $tipoPerfil in C:\xampp\htdocs\tcc\pages\perfil.php on line 30
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 42
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\perfil.php on line 43
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\pages\perfil.php on line 49
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 66
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 66
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 68
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 68
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in C:\xampp\htdocs\tcc\pages\perfil.php on line 82
+[18-Nov-2024 18:27:17 America/Sao_Paulo] PHP Warning:  Undefined array key "fone" in C:\xampp\htdocs\tcc\pages\perfil.php on line 88
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 23
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined variable $tipoPerfil in C:\xampp\htdocs\tcc\pages\perfil.php on line 30
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 42
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\perfil.php on line 43
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\pages\perfil.php on line 49
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 66
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 66
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 68
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 68
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in C:\xampp\htdocs\tcc\pages\perfil.php on line 82
+[18-Nov-2024 18:27:33 America/Sao_Paulo] PHP Warning:  Undefined array key "fone" in C:\xampp\htdocs\tcc\pages\perfil.php on line 88
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 23
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined variable $tipoPerfil in C:\xampp\htdocs\tcc\pages\perfil.php on line 30
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\perfil.php on line 42
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\perfil.php on line 43
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\pages\perfil.php on line 49
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 59
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 63
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 66
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 66
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined variable $endereco in C:\xampp\htdocs\tcc\pages\perfil.php on line 68
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\tcc\pages\perfil.php on line 68
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in C:\xampp\htdocs\tcc\pages\perfil.php on line 82
+[18-Nov-2024 18:27:44 America/Sao_Paulo] PHP Warning:  Undefined array key "fone" in C:\xampp\htdocs\tcc\pages\perfil.php on line 88
+[18-Nov-2024 19:16:46 America/Sao_Paulo] PHP Warning:  Undefined variable $senha in C:\xampp\htdocs\tcc\pages\perfil.php on line 35
+[18-Nov-2024 19:17:23 America/Sao_Paulo] PHP Warning:  Undefined variable $senha in C:\xampp\htdocs\tcc\pages\perfil.php on line 35
+[18-Nov-2024 19:18:48 America/Sao_Paulo] PHP Warning:  Undefined array key "descricao" in C:\xampp\htdocs\tcc\pages\perfil.php on line 55
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 20
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 21
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "descricao" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 22
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 23
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "fone" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 24
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 20
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 21
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "descricao" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 22
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 23
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "fone" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 24
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "endereco" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 20
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 21
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "descricao" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 22
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "cnpj" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 23
+[19-Nov-2024 15:30:02 America/Sao_Paulo] PHP Warning:  Undefined array key "fone" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 24
+[19-Nov-2024 15:44:04 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 25
+[19-Nov-2024 15:44:04 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 25
+[19-Nov-2024 15:44:04 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 25
+[19-Nov-2024 15:44:17 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.estado,
+                    e.cidade,
+                    e.bairro,
+     ...' at line 8
+[19-Nov-2024 15:44:46 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.descricao,
+                    i.cnpj,
+                    i.fone,
+      ...' at line 5
+[19-Nov-2024 15:44:47 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.descricao,
+                    i.cnpj,
+                    i.fone,
+      ...' at line 5
+[19-Nov-2024 15:44:47 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.descricao,
+                    i.cnpj,
+                    i.fone,
+      ...' at line 5
+[19-Nov-2024 15:44:48 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.descricao,
+                    i.cnpj,
+                    i.fone,
+      ...' at line 5
+[19-Nov-2024 15:44:51 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 25
+[19-Nov-2024 15:44:51 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 25
+[19-Nov-2024 15:44:51 America/Sao_Paulo] PHP Warning:  Undefined array key "img" in C:\xampp\htdocs\tcc\pages\instituicao.php on line 25
+[19-Nov-2024 15:47:53 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.fone,
+                    i.img,
+                    e.estado,
+          ...' at line 7
+[21-Nov-2024 19:32:55 America/Sao_Paulo] Erro ao listar necessidades: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_necessidades' doesn't exist
+[21-Nov-2024 20:03:28 America/Sao_Paulo] Erro ao listar necessidades: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_necessidades' doesn't exist
+[21-Nov-2024 20:03:39 America/Sao_Paulo] Erro ao adicionar necessidade: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_necessidades' doesn't exist
+[21-Nov-2024 20:03:39 America/Sao_Paulo] Erro ao listar necessidades: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_necessidades' doesn't exist
+[21-Nov-2024 20:04:42 America/Sao_Paulo] Erro ao listar necessidades: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_necessidades' doesn't exist
+[21-Nov-2024 20:04:50 America/Sao_Paulo] Erro ao adicionar necessidade: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_necessidades' doesn't exist
+[21-Nov-2024 20:04:50 America/Sao_Paulo] Erro ao listar necessidades: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_necessidades' doesn't exist
+[21-Nov-2024 20:20:50 America/Sao_Paulo] PHP Warning:  Undefined array key "method" in C:\xampp\htdocs\tcc\pages\necessidades-inst.php on line 33
+[21-Nov-2024 20:29:34 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
+[21-Nov-2024 20:29:42 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
+[21-Nov-2024 20:30:46 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
+[21-Nov-2024 20:30:50 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
+[21-Nov-2024 20:31:02 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
+[21-Nov-2024 20:31:05 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
+[21-Nov-2024 20:31:36 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
