@@ -14,7 +14,7 @@
 
 	spl_autoload_register($autoload);
 
-	define('INCLUDE_PATH', 'http://localhost/tcc/');
+	define('INCLUDE_PATH', 'http://localhost/CompartilhaAcaoTCC/');
 	define('HOST', 'localhost');
 	define('USER', 'root');
 	define('PASSWORD', '');

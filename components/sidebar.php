@@ -27,23 +27,23 @@ $url = isset($_GET['url']) ? $_GET['url'] : 'home';
                 <?php if ($_SESSION['tipo'] == 'instituicao') { ?>
                     <img class="logo_inst" src="<?php echo $_SESSION['img']; ?>" alt="Imagem da Instituição - <?php echo $_SESSION['nome']; ?>">
                 <?php } ?>
-                <h2><?php echo $_SESSION['nome']; ?></h2>
-                
-                <a style="margin-top: 3px;" class="logout" href="<?php echo INCLUDE_PATH; ?>perfil" class="button"><i class="fa-solid fa-user"></i> Perfil</a>
+                <h2>CompartilhaAção</h2>
             </a>
         </div>
         <nav class="menu">
             <ul>
-            <li>
-                <li><a href="<?php echo INCLUDE_PATH; ?>instituicao"><i class="fa-solid fa-landmark"></i> Instituições</a></li>
+                <li><a style="margin-top: 3px;" class="logout" href="<?php echo INCLUDE_PATH; ?>perfil" class="button"><i class="fa-solid fa-user"></i> Perfil</a></li>
+                <li><a href="<?php echo INCLUDE_PATH; ?>"><i class="fa-solid fa-house"></i> Página Inicial</a></li>
                 <?php if ($_SESSION['tipo'] == 'instituicao') { ?>
                     <li><a href="<?php echo INCLUDE_PATH; ?>necessidades-inst"><i class="fa-solid fa-landmark"></i> Necessidades da Instituição</a></li>
-                <?php }?>
+                <?php } else { ?>
+                    <li><a href="<?php echo INCLUDE_PATH; ?>instituicao"><i class="fa-solid fa-landmark"></i> Instituições</a></li>
+                <?php } ?>
+                <li><a class="logout" href="<?php echo INCLUDE_PATH; ?>logout.php" class="button"><i class="fa-solid fa-right-from-bracket"></i> Sair</a></li>
             </ul>
         </nav>
         <div>
             <img class="logo" src="<?php echo INCLUDE_PATH; ?>/public/images/logo.png" alt="Logo CompartilhaAção">
-            <a class="logout" href="<?php echo INCLUDE_PATH; ?>logout.php" class="button"><i class="fa-solid fa-right-from-bracket"></i> Sair</a>
         </div>
     </div>
     <div class="main">

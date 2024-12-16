@@ -194,7 +194,7 @@ body {
 .perfil .edit-profile input, 
 .perfil .edit-profile select,
 input[type=file],
-.img-input,
+.input,
 textarea {
     width: 100%;
     padding: 14px;
@@ -217,6 +217,7 @@ textarea {
     border-radius: 5px;
 }
 
+
 .voltar {
     padding: 10px;
     background-color: #10a35f;
@@ -231,10 +232,15 @@ textarea {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
+    padding: 5px;
+}
+
+.user-center a:last-of-type {
+    margin-top: 5px;   
 }
 
 .user-center a {
-    width: 49%;
+    width: 100%;
     text-align: center;
     text-decoration: none;
     background-color: #DE776F;
@@ -294,9 +300,8 @@ textarea {
     cursor: pointer;
 }
 
-.img-input { 
-    display: block;
-    width: 40% !important;
+.space-between {
+    justify-content: space-between;
 }
 
 table.instituicoes {
@@ -310,6 +315,16 @@ table.instituicoes thead {
     padding: 5px;
     text-align: center;
     color: white;
+}
+
+.scroll-container {
+    max-height: 85vh; 
+    overflow-y: auto;  
+    overflow-x: hidden;
+    border: 1px solid #ddd;
+    padding: 10px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
 }
 
 table.instituicoes tbody tr td {

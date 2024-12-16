@@ -298,3 +298,27 @@ Stack trace:
 [21-Nov-2024 20:31:02 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
 [21-Nov-2024 20:31:05 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
 [21-Nov-2024 20:31:36 America/Sao_Paulo] PHP Warning:  Undefined array key "nome_fantasia" in C:\xampp\htdocs\tcc\pages\necessidades.php on line 13
+[16-Dec-2024 18:29:35 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Instituicao.php:134
+Stack trace:
+#0 C:\xampp\htdocs\CompartilhaAcaoTCC\pages\login-instituicao.php(34): Instituicao::login('conradtsamuel@g...', '1234567')
+#1 C:\xampp\htdocs\CompartilhaAcaoTCC\index.php(15): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Instituicao.php on line 134
+[16-Dec-2024 18:30:05 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Instituicao.php:98
+Stack trace:
+#0 C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Instituicao.php(111): Instituicao::instituicaoExists('conradtsamuel@g...')
+#1 C:\xampp\htdocs\CompartilhaAcaoTCC\pages\cadastro-instituicao.php(33): Instituicao::cadastrarInstituicao('42', 'Sombrio', 'Raizera', 'Rua M\xC3\xA1rio Sant...', '211', '88960000', 'conradtsamuel@g...', '1234567', 'Samuel Conradt', '', '79.750.298/0001...', '48996786995', '')
+#2 C:\xampp\htdocs\CompartilhaAcaoTCC\index.php(15): include('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Instituicao.php on line 98
+[16-Dec-2024 18:57:42 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined method Instituicao::obterInstituicoesComNecessidades() in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\instituicao.php:3
+Stack trace:
+#0 C:\xampp\htdocs\CompartilhaAcaoTCC\index.php(15): include()
+#1 {main}
+  thrown in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\instituicao.php on line 3
+[16-Dec-2024 19:01:05 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1305 FUNCTION compartilhaacao.JSON_ARRAYAGG does not exist
+[16-Dec-2024 19:01:50 America/Sao_Paulo] Erro ao obter instituições: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT JSON_ARRAYAGG(
+                        JSON_OBJECT(
+                ...' at line 16
+[16-Dec-2024 19:03:45 America/Sao_Paulo] PHP Warning:  Undefined array key "necessidades" in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\instituicao.php on line 61
+[16-Dec-2024 19:03:45 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\instituicao.php on line 61
