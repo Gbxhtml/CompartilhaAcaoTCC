@@ -173,8 +173,8 @@ $nomeEstado = obterNomeEstado($endereco['estado']);
         <!-- Central de Conta -->
         <section class="user">
             <div class="user-center">
-                <a style="background-color:rgb(30, 155, 94)" onclick="alterar()">Salvar Alterações</a>
-                <a style="background-color:rgb(194, 18, 18)" onclick="excluir()">Excluir Conta</a>
+                <a style="background-color:rgb(18, 165, 94)" onclick="alterar()">Salvar Alterações</a>
+                <a style="background-color:rgb(196, 24, 24)" onclick="excluir()">Excluir Conta</a>
             </div>
         </section>
 
