@@ -322,3 +322,26 @@ Stack trace:
                 ...' at line 16
 [16-Dec-2024 19:03:45 America/Sao_Paulo] PHP Warning:  Undefined array key "necessidades" in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\instituicao.php on line 61
 [16-Dec-2024 19:03:45 America/Sao_Paulo] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\instituicao.php on line 61
+[20-Dec-2024 13:04:07 America/Sao_Paulo] PHP Warning:  Undefined array key "instituicao_id" in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\necessidades-inst.php on line 59
+[20-Dec-2024 13:04:09 America/Sao_Paulo] PHP Warning:  Undefined array key "instituicao_id" in C:\xampp\htdocs\CompartilhaAcaoTCC\pages\necessidades-inst.php on line 59
+[20-Dec-2024 13:21:00 America/Sao_Paulo] Email não encontrado: gabriel36pp@gmail.com
+[20-Dec-2024 13:21:18 America/Sao_Paulo] Senha incorreta para o email: lardoidoso@gmail.com
+[06-Jan-2025 15:44:23 America/Sao_Paulo] Email não encontrado: gabriel36pp@gmail.com
+[06-Jan-2025 19:09:09 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Usuario.php:165
+Stack trace:
+#0 C:\xampp\htdocs\CompartilhaAcaoTCC\components\sidebar.php(4): Usuario::obterUsuario('gabriel36pp@gma...')
+#1 C:\xampp\htdocs\CompartilhaAcaoTCC\index.php(13): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Usuario.php on line 165
+[06-Jan-2025 19:09:15 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Usuario.php:165
+Stack trace:
+#0 C:\xampp\htdocs\CompartilhaAcaoTCC\components\sidebar.php(4): Usuario::obterUsuario('gabriel36pp@gma...')
+#1 C:\xampp\htdocs\CompartilhaAcaoTCC\index.php(13): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Usuario.php on line 165
+[06-Jan-2025 19:09:21 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Usuario.php:165
+Stack trace:
+#0 C:\xampp\htdocs\CompartilhaAcaoTCC\components\sidebar.php(4): Usuario::obterUsuario('gabriel36pp@gma...')
+#1 C:\xampp\htdocs\CompartilhaAcaoTCC\index.php(13): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Usuario.php on line 165

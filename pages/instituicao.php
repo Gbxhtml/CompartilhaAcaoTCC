@@ -65,7 +65,8 @@ if (!empty($instituicoes)): ?>
                                                 <td>
                                                     <a 
                                                         style="background-color: rgb(30, 155, 94)"
-                                                        href="https://wa.me/<?php echo $instituicao['fone']; ?>?text=Gostaria de ajudar com o item: <?php echo $necessidade['item']; ?>">
+                                                        target="_blank"
+                                                        href="https://wa.me/<?php echo $instituicao['fone']; ?>?text=Olá, gostaria de ajudar a sua instituição com o item: <?php echo $necessidade['item']; ?>. Como podemos proceder?">
                                                         <i class="fa-brands fa-whatsapp"></i>
                                                     </a>
                                                 </td>

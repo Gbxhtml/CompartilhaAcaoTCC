@@ -5,8 +5,8 @@
 
     font-family: 'Poppins',Arial, Helvetica, sans-serif;
 
-    --primary: #fdc661;
-    --background: #FAF3E7;
+    --primary: blue;
+    --background: #e7f5fa;
 
 } /* reseta o estilo do website, e cria variaves de cor */
 
@@ -69,7 +69,7 @@ body {
 .logout {
     width: 100%;
     display: block;
-    background-color: #fdc661;
+    background-color: #619afd;
     border-radius: 6px;
     padding: 15px 5px;
     text-align: center;
@@ -80,7 +80,7 @@ body {
 
 
 .sidebar {
-    background-color: #FEDFA5;
+    background-color: #bbcbfb;
     padding: 20px;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
     display: flex;
@@ -94,7 +94,7 @@ body {
 }
 
 .profile a h2 {
-    color: #FB6D6D;
+    color: #6d8efb;
 }
 
 .sidebar ul li {
@@ -105,7 +105,7 @@ body {
 
 .sidebar ul li a {
     display: block;
-    background-color: #fdc661;
+    background-color: #619ffd;
     width: 100%;
     padding: 15px 5px;
     text-decoration: none;
@@ -206,7 +206,7 @@ textarea {
     display: block;
     text-align: center;
     text-decoration: none;
-    background-color: #FDC661;
+    background-color: #61aafd;
     padding: 15px;
     color: white;
     text-transform: uppercase;
@@ -243,7 +243,7 @@ textarea {
     width: 100%;
     text-align: center;
     text-decoration: none;
-    background-color: #DE776F;
+    background-color: #6fb2de;
     padding: 15px;
     color: white;
     text-transform: uppercase;
@@ -289,7 +289,7 @@ textarea {
     width: 100%;
     text-align: center;
     text-decoration: none;
-    background-color: #fa473a;
+    background-color: #3a7afa;
     padding: 15px;
     color: white;
     text-transform: uppercase;
@@ -306,12 +306,12 @@ textarea {
 
 table.instituicoes {
     padding: 10px;
-    border: 2px solid #FB6D6D;
+    border: 2px solid #6db6fb;
     overflow-y: scroll;
 }
 
 table.instituicoes thead {
-    background-color: #FB6D6D;
+    background-color: #6db6fb;
     padding: 5px;
     text-align: center;
     color: white;
@@ -336,7 +336,7 @@ table.instituicoes tbody tr td a {
     padding: 10px;
     font-size: medium;
     font-weight: bold;
-    background-color: #fdc661;
+    background-color: #6db6fb;
     border: 0;
     cursor: pointer;
     border-radius: 2px;
@@ -349,11 +349,11 @@ table.instituicoes {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    border: 2px solid #FB6D6D;
+    border: 2px solid #6db6fb;
 }
 
 table.instituicoes thead {
-    background-color: #FB6D6D;
+    background-color: #6db6fb;
     color: white;
     text-align: center;
 }
