@@ -345,3 +345,7 @@ Stack trace:
 #1 C:\xampp\htdocs\CompartilhaAcaoTCC\index.php(13): include('C:\\xampp\\htdocs...')
 #2 {main}
   thrown in C:\xampp\htdocs\CompartilhaAcaoTCC\classes\Usuario.php on line 165
+[09-Jan-2025 18:27:36 America/Sao_Paulo] Erro ao realizar login: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_usuario' doesn't exist
+[09-Jan-2025 18:27:46 America/Sao_Paulo] Erro ao verificar existência do usuário: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_usuario' doesn't exist
+[09-Jan-2025 18:27:47 America/Sao_Paulo] Erro ao verificar existência do CPF: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_usuario' doesn't exist
+[09-Jan-2025 18:27:47 America/Sao_Paulo] Erro ao cadastrar usuário: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'compartilhaacao.tb_endereco' doesn't exist
